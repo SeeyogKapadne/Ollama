@@ -1,0 +1,4 @@
+Name: Jane Smith
+Email: jane@example.com
+Skills: Python, Data Science, Machine Learning
+Experience: 5 years in analytics

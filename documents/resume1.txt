@@ -1,0 +1,4 @@
+Name: John Doe
+Email: john@example.com
+Skills: JavaScript, Node.js, React
+Experience: 3 years in web development
