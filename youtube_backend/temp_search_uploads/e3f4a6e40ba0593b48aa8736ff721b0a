@@ -1,0 +1,20 @@
+[
+  {
+    "text": "The distance between your dreams and your reality right now is discipline.",
+    "start": 0,
+    "end": 5.12,
+    "start_hms": "00:00:00",
+    "end_hms": "00:00:05",
+    "url": "video2.mp4#t=0",
+    "source": "asr"
+  },
+  {
+    "text": "Discipline is doing the things you hate to do, but do it like you love it.",
+    "start": 5.12,
+    "end": 10.08,
+    "start_hms": "00:00:05",
+    "end_hms": "00:00:10",
+    "url": "video2.mp4#t=5",
+    "source": "asr"
+  }
+]

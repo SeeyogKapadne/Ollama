@@ -1,0 +1,5 @@
+start_sec,end_sec,start_hhmmss,end_hhmmss,text,url
+0,1.28,00:00:00,00:00:01,"Don't end your speech with,",C:\Users\SeeyogKapadne\usda_hemp_flutter_project\youtube_backend\videos\speech.mp4#t=0
+1.28,3.4400000000000004,00:00:01,00:00:03,"so yeah, that's my presentation, thank you.",C:\Users\SeeyogKapadne\usda_hemp_flutter_project\youtube_backend\videos\speech.mp4#t=1
+3.44,6.16,00:00:03,00:00:06,"Instead, tell your audience what you want them to do.",C:\Users\SeeyogKapadne\usda_hemp_flutter_project\youtube_backend\videos\speech.mp4#t=3
+6.16,8.4,00:00:06,00:00:08,"For example, follow to end your speech the right way.",C:\Users\SeeyogKapadne\usda_hemp_flutter_project\youtube_backend\videos\speech.mp4#t=6
